@@ -43,3 +43,6 @@ This project was built to learn a React with best practices and to learn React s
  ![Serch Results screenshot](https://github.com/Trushar07/Youtube_Clone/blob/38d795e61c6b6ce16c0fce30da347fc350685484/screenshots/Search%20Result.png)
  ### Video Details
  ![Video Details screenshot](https://github.com/Trushar07/Youtube_Clone/blob/38d795e61c6b6ce16c0fce30da347fc350685484/screenshots/Videoplay.png)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
