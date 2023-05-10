@@ -1,5 +1,5 @@
 # YouTube Clone React App
-This project is a clone of the YouTube website built using React. The app allows you to search for videos, view video details, channel details and play videos using the Rapid API. You can also explore the various categories like new, gaming, fashion and many more.
+This project is inspired by YouTube built using React. The app allows you to search for videos, view video details, channel details and play videos using the Rapid API. You can also explore the various categories like new, gaming, fashion and many more.
 
 ## Getting Started
 To get started with this project, follow the instructions below:
